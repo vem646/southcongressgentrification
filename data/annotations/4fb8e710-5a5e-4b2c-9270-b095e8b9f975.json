@@ -1,5 +1,495 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introducing myslef and the topic I'm focusing on: Gentrification in Austin, TX specifically how local South Congress businesses have been facing displacement. The unique factors, long-time residents, local shops displacement  is affect the whole city. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Location"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Personal Experience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Displacement"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Theme"
+        }
+      ],
+      "uuid": "121cb386-a847-4e0d-9192-88e5a6aa60d5"
+    },
+    {
+      "start_time": 45,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Providing context on why local shops have been experiencing displacement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Displacement"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sound Effect"
+        }
+      ],
+      "uuid": "49c3ba05-a4a6-4621-b0b1-7a605a064c0b"
+    },
+    {
+      "start_time": 60,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thesis: What South Congress local businesses bring to Austin and how introducing a bill to save them would help."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Message"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Theme"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Community"
+        }
+      ],
+      "uuid": "2ffdc0a2-34b3-4171-aa22-5e6262c943d5"
+    },
+    {
+      "start_time": 95,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Austin's \"weird\" factor being erased and how that is negatively affecting long-time residents and local businesses."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Displacement"
+        }
+      ],
+      "uuid": "c51f157b-7e34-4891-bdc0-7bb3b544c1a2"
+    },
+    {
+      "start_time": 120,
+      "end_time": 145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Connecting Rachel Meltzer's research to this topic: Explains why South Congress is changing so much, so fast."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Academic Article"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Social Class"
+        }
+      ],
+      "uuid": "27e21eae-7f26-42e2-8a7e-7e80773416b9"
+    },
+    {
+      "start_time": 145,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The risk of losing Austin's image because of local shops being displaced."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Displacement"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "74e8330f-c645-4e6f-829f-740d15fb6ed9"
+    },
+    {
+      "start_time": 170,
+      "end_time": 205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Inviting a friend to get their opinion on the gentrification of South Congress."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Personal Experience"
+        }
+      ],
+      "uuid": "598a9c8c-5d78-4a57-b75d-0e0008a3f35f"
+    },
+    {
+      "start_time": 205,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Connecting research done by a team on their analysis of gentrification in cities Charlotte, Phoenix, and Seattle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Academic Article"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Data"
+        }
+      ],
+      "uuid": "247e7d36-7d1c-49c1-b3f3-071ccf6a672f"
+    },
+    {
+      "start_time": 250,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Austin not explicitly saying what changes are happening."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Academic Article"
+        }
+      ],
+      "uuid": "d148d0da-a811-4bee-9aa7-72e63892749c"
+    },
+    {
+      "start_time": 275,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Local businesses having to face rising rent costs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stakeholders"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Housing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Economy"
+        }
+      ],
+      "uuid": "2c4b8761-b4f9-4af3-a588-c406c824a18d"
+    },
+    {
+      "start_time": 300,
+      "end_time": 325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Explaining the close relationship between local businesses and long-time residents."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stakeholders"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Displacement"
+        }
+      ],
+      "uuid": "31dc565d-04a5-4371-9abb-be8d0b2d45cf"
+    },
+    {
+      "start_time": 325,
+      "end_time": 350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The good and bad things new high-end retailers bring when they move into South Congress."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stakeholders"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Economy"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Social Class"
+        }
+      ],
+      "uuid": "d1386b1f-342f-4a5a-8b57-725e82c50fa1"
+    },
+    {
+      "start_time": 350,
+      "end_time": 375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "City planners and local government being stakeholders in this issue and the power they have to help resolve the issue or help it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stakeholders"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Politicians"
+        }
+      ],
+      "uuid": "bb03c9de-789a-4c40-bea7-1fc92f6a8fb9"
+    },
+    {
+      "start_time": 375,
+      "end_time": 425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Proposal: How to stop the displacement of local businesses"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Exigence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Persuasive"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Displacement"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Community"
+        }
+      ],
+      "uuid": "045406ad-4604-49de-a9ca-474cdc3a4f97"
+    },
+    {
+      "start_time": 425,
+      "end_time": 475,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Consequences: What would happen if no effort is put in to save local South Congress businesses."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Data"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tone of Voice"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Academic Article"
+        }
+      ],
+      "uuid": "dd20374c-f528-4683-8ad8-da8593dcd36e"
+    },
+    {
+      "start_time": 475,
+      "end_time": 525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Counterargument: The concern that South Congress might lose profits or be held back when it comes to development, although that would not be true."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Argumentative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Economy"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Communities"
+        }
+      ],
+      "uuid": "e2c8ad91-576f-409f-8a19-da0bc43b9e24"
+    },
+    {
+      "start_time": 525,
+      "end_time": 575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Summarizing topic, proposal, and concluding."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Message"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Informative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "4dbd2ec9-3c04-42fd-b8a6-2d997a698124"
+    }
+  ],
   "set": "Default",
   "event_id": "e7ff6afb-2064-4d0b-8458-95a72bd02a61",
   "source_id": "112bb85a-69dd-4926-8998-2ea3c6df22ff"
