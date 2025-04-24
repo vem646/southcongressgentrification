@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "vem646",
+    "is_private": false,
+    "title": "Preserving Community and Culture: Saving Local Businesses on South Congress",
+    "description": "Austin’s most iconic street, South Congress, has started to turn into a high-end commercial shopping street when it used to be filled with small and local shops, catering to Austin’s vibrant and “weird” culture. This reflects the broader trend of gentrification that has been spreading across the entire city. The rise of tech companies and the influx of new residents who are primarily white and wealthy have driven up property values, which has led to the displacement of not only longtime residents but also small businesses.",
+    "language": "en",
+    "slug": "southcongressgentrification",
+    "creator": "vem646",
+    "authors": "Victor Mata",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-04-24T14:59:07.026Z",
+    "updated_at": "2025-04-24T14:59:07.026Z"
   }
 }
