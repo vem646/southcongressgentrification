@@ -1,0 +1,30 @@
+{
+  "audiovisual_files": {
+    "1237ee2b-09aa-466c-959d-9d0aebe3aa58": {
+      "label": "Audio File",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/rhe-project-4_202504/RHE%20-%20Project%204%20.mp3",
+      "duration": 399,
+      "caption_set": [],
+      "duration_overridden": false
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Preserving Community and Culture: Saving Local Businesses on South Congress",
+  "created_at": "2025-04-30T21:20:43.485Z",
+  "created_by": "vem646",
+  "updated_at": "2025-04-30T21:20:43.485Z",
+  "updated_by": "vem646"
+}
